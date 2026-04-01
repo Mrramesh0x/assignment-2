@@ -33,6 +33,12 @@ make responsive for mobile phone write mediascreen width 500px and for tablet wr
 now adding css for searchbar make it responsive.
 adding searchbar.css file still making seperate for readiblity.
 now creating the repo on github.
+repo added git push success.
+now deployment done.
+now doing first commit project live and pushing this four lines. 
+
+
+
 
 *******key to be improved tn this project****
 while searching,we can add debounce functionality so with every keypress backend not hit only wait with delay what we proviode.
